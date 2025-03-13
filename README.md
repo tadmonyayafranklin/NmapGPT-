@@ -1,6 +1,6 @@
 # NMAP-GPT
 
-![nmap-gpt](https://user-images.githubusercontent.com/63926014/221396066-0ace46a1-bb97-4fc0-825c-412f4e2dbc4d.png)
+![nmap-gpt](https://github.com/tadmonyayafranklin/NmapGPT-/blob/main/08fbacbd4a381e7db2a83b9aad5eb15c_high.webp)
 
 This tool helps security professionals actively learn how to address security concerns associated with open ports on a network device. It works by scanning the device using Nmap and then leveraging the OpenAI API to provide insights on specific security considerations for each open port, including the latest vulnerability information as of 2025.
 
